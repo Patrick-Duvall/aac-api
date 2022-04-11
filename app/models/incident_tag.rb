@@ -1,0 +1,2 @@
+class IncidentTag < ApplicationRecord
+end

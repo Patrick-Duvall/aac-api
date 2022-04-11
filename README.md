@@ -9,3 +9,21 @@ Things you might want to cover:
 * Database setup
 * How to run the test suite
 * Deployment instructions
+
+*** Api docs
+
+/causes
+-- list of all causes
+
+/tags
+--list of all tags
+
+/incidents
+--list of all incients
+- accepts pagination
+- default 10
+- query by 
+-- year
+-- tag
+-- cause
+-- location querystring 

@@ -1,0 +1,2 @@
+class IncidentCause < ApplicationRecord
+end
