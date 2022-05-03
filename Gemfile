@@ -18,6 +18,7 @@ group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
   gem 'shotgun'
   gem 'rack'
+  gem 'pry'
   gem 'puma'
 end
 
